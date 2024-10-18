@@ -12,6 +12,15 @@
 - **GitHub 호환성**: GitHub에서 자동으로 렌더링
 
 ---
+[Google](https://www.google.com)
+
+## 이미지 삽입
+![pluto](https://i.imgur.com/Rnj7kZj.jpeg)
+
+## 인용문 사용
+그는 어제 내게 "나랑 내일 놀자"라고 말했다.
+> 이 문장은 인용된 내용입니다.
+---
 
 ## 설치 방법 (코드 블록 사용)
 아래 명령어를 사용해 프로젝트를 클론할 수 있습니다:
@@ -19,11 +28,4 @@
 ```bash
 git clone https://github.com/your-username/your-repository.git
 
-[Google](https://www.google.com)
 
-## 이미지 삽입
-'![pluto](https://i.imgur.com/Rnj7kZj.jpeg)'
-
-## 인용문 사용
-그는 어제 내게 "나랑 내일 놀자"라고 말했다.
-> 이 문장은 인용된 내용입니다.
