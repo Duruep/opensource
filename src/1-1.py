@@ -15,7 +15,7 @@ def selectionSort(list):
 
 # Driver code to test above
 list = [64, 26, 12, 22, 11]
-print("Original list =%s" % list)
+print("Original list =%s" % list, 'test')
 
 selectionSort(list)
 
