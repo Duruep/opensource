@@ -25,4 +25,5 @@ git clone https://github.com/your-username/your-repository.git
 ![chain](https://www.shutterstock.com/image-vector/ship-steering-wheel-chain-link-600nw-2037805994.jpg)
 
 ## 인용문 사용
+그는 어제 내게 "나랑 내일 놀자"라고 말했다.
 > 이 문장은 인용된 내용입니다.
