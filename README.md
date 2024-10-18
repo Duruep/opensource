@@ -22,7 +22,7 @@ git clone https://github.com/your-username/your-repository.git
 [Google](https://www.google.com)
 
 ## 이미지 삽입
-![chain](https://www.shutterstock.com/image-vector/ship-steering-wheel-chain-link-600nw-2037805994.jpg)
+![pluto](https://i.imgur.com/Rnj7kZj.jpeg)
 
 ## 인용문 사용
 그는 어제 내게 "나랑 내일 놀자"라고 말했다.
