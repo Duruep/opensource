@@ -22,7 +22,7 @@ git clone https://github.com/your-username/your-repository.git
 [Google](https://www.google.com)
 
 ## 이미지 삽입
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![imuama](https://image.dongascience.com/Photo/2018/11/b1c5b2f694830b27c6870b38d276f34f.jpg)
 
 ## 인용문 사용
 > 이 문장은 인용된 내용입니다.
